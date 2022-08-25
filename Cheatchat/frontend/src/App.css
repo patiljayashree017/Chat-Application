@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+  
+.App{
+    min-height: 100vh;
+    display: flex;
+    background-image: url("https://cdn.pixabay.com/photo/2017/05/11/11/15/workplace-2303851__480.jpg"); 
+    background-size: cover;
+    background-position: center;
+}  
+ ::-webkit-scrollbar {
+     width: 0px;
+ }
+
+ ::-webkit-scrollbar-thumb {
+     background: rgba(136,136,136,0.281);
+ } 
+
+ ::-webkit-srcollbar-thumb:hover {
+     background: #555;
+ }
